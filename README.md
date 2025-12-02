@@ -9,4 +9,4 @@
 * Create an ERD model of the Databse in order to represent planning for the databse for the group
 
 [Project 3: Study & Sleep's effect on Grades](https://github.com/demonnexus-hub/David-s-Portfolio/tree/main/Study%20&%20Sleep)
-* ●	Strengthened academic forecasting by 44% by developing a basic machine learning (ML) system using R to predict grades based on historical data
+* Strengthened academic forecasting by 44% by developing a basic machine learning (ML) system using R to predict grades based on historical data
