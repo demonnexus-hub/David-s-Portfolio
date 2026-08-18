@@ -10,3 +10,8 @@
 
 [Project 3: Study & Sleep's effect on Grades](https://github.com/demonnexus-hub/David-s-Portfolio/tree/main/Study%20&%20Sleep)
 * Strengthened academic forecasting by 44% by developing a basic machine learning (ML) system using R to predict grades based on historical data
+
+
+[Project 4: Merger of two Companies](https://github.com/demonnexus-hub/ist722dbt/tree/main/Merger%20Project)
+* Used Snowflake and DBT cloud to merge two companies business process together and push it through to Power BI for visualization and analysis
+* Worked with Data between multiple systems to become clean and digestible by multiple people.
