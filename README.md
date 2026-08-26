@@ -24,6 +24,6 @@
 * Used a Deep learning Model to create a bacteria Identification matrix.
 * Created a CNN Model in order to predict an Microscope image of a bacteria to properly identify it.
 
-[Project 7: Tensor Flow Window Prediction model](https://github.com/demonnexus-hub/David-s-Portfolio/blob/main/Market%20Predictions/Tensor%20Flow%20Maket%20Prediction.ipynb)
+[Project 7: Tensor Flow Window Prediction model](https://github.com/demonnexus-hub/David-s-Portfolio/blob/main/Market%20Predictions/Tensor%20Flow%20Market%20Predictions.ipynb)
 * Moved data through Cassandra and MongoDB to be digested in Python Spark for analysis
 * Used Tensor Flow Dataframe to build a stock prediction model and look at the predictions. 
