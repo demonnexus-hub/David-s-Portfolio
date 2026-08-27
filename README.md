@@ -16,7 +16,7 @@
 * Used Snowflake and DBT cloud to merge two companies business process together and push it through to Power BI for visualization and analysis
 * Worked with Data between multiple systems to become clean and digestible by multiple people.
 
-[Project 5:Short Term Stock trades in ML](https://github.com/demonnexus-hub/David-s-Portfolio/blob/main/Market%20Predictions/Short%20Term%20Market%20Prediction.ipynb)
+[Project 5: Short Term Stock trades in ML](https://github.com/demonnexus-hub/David-s-Portfolio/blob/main/Market%20Predictions/Short%20Term%20Market%20Prediction.ipynb)
 * Used Yahoo Finance CSV to create a prediction model of Stocks.
 * Used common Supervised Machine learning techniques to see which model would be best for prediction short term models.
 
